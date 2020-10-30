@@ -29,6 +29,43 @@
   },
   productList: [
     {
+      name: 'Harvest Mini Bib Apron – Indigo Denim',
+      link: {
+        href: 'http://google.com',
+        text: 'Harvest Mini Bib Apron – Indigo Denim',
+      },
+      primaryImage: {
+        src:
+          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-harvest-restyled-minibib-indigo5.jpg',
+        alt: 'Harvest Mini Bib Apron – Indigo Denim',
+      },
+      secondaryImage: {
+        src:
+          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-harvest-restyled-minibib-bindigoside.jpeg',
+        alt: 'Harvest Mini Bib Apron – Indigo Denim',
+      },
+      stamp: {
+        src:
+          'https://www.cargocrew.com.au/media/wysiwyg/product_label/choose-strap.png',
+        alt: 'Chose Your Strap',
+      },
+      allowPreorder: true,
+      preOrder: {
+        href: 'http://www.google.com',
+        text: 'Pre-Order Now',
+      },
+      price: '$32.00',
+      rating: 3.5,
+      reviews: {
+        href: 'http://www.google.com',
+        text: '10 Reviews',
+      },
+      viewAvailableColors: {
+        href: 'http://www.google.com',
+        text: 'View Available Colours',
+      },
+    },
+    {
       name: 'Boston Distressed Denim Bib Apron - Light Blue',
       link: {
         href:
@@ -110,25 +147,42 @@
       },
     },
     {
-      name: 'Harvest Mini Bib Apron – Indigo Denim',
+      name:
+        'Image without Stamp, Colour Group, Ratings, Price, Reviews and Available colors link',
+      link: {
+        href: 'http://google.com',
+        text: 'Boston Distressed Denim Bib Apron - Light Blue',
+      },
+      primaryImage: {
+        src:
+          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-barkly-black-1-2.jpg',
+        alt: 'Boston Distressed Denim Bib Apron - Light Blue',
+      },
+      secondaryImage: {
+        src:
+          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-barkly-black-2.jpg',
+        alt: 'Boston Distressed Denim Bib Apron - Light Blue',
+      },
+      shopNow: {
+        href: 'http://www.google.com',
+        text: 'Shop Now',
+      },
+    },
+    {
+      name: 'Product Item without product stamp',
       link: {
         href: 'http://google.com',
         text: 'Harvest Mini Bib Apron – Indigo Denim',
       },
       primaryImage: {
         src:
-          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-harvest-restyled-minibib-indigo5.jpg',
+          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-ace-bib-swedish-blue-1.png',
         alt: 'Harvest Mini Bib Apron – Indigo Denim',
       },
       secondaryImage: {
         src:
-          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-harvest-restyled-minibib-bindigoside.jpeg',
-        alt: 'Harvest Mini Bib Apron – Indigo Denim',
-      },
-      stamp: {
-        src:
-          'https://www.cargocrew.com.au/media/wysiwyg/product_label/choose-strap.png',
-        alt: 'Chose Your Strap',
+          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-ace-bib-swedish-blue-2.png',
+        alt: 'Harvest Mini Bib Apron –   Indigo Denim',
       },
       allowPreorder: true,
       preOrder: {
@@ -136,7 +190,7 @@
         text: 'Pre-Order Now',
       },
       price: '$32.00',
-      rating: 3.5,
+      rating: 3,
       reviews: {
         href: 'http://www.google.com',
         text: '10 Reviews',
@@ -184,60 +238,6 @@
       },
       price: '$40.00',
       rating: 5,
-      reviews: {
-        href: 'http://www.google.com',
-        text: '10 Reviews',
-      },
-      viewAvailableColors: {
-        href: 'http://www.google.com',
-        text: 'View Available Colours',
-      },
-    },
-    {
-      name:
-        'Image without Stamp, Colour Group, Ratings, Price, Reviews and Available colors link',
-      link: {
-        href: 'http://google.com',
-        text: 'Boston Distressed Denim Bib Apron - Light Blue',
-      },
-      primaryImage: {
-        src:
-          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-barkly-black-1-2.jpg',
-        alt: 'Boston Distressed Denim Bib Apron - Light Blue',
-      },
-      secondaryImage: {
-        src:
-          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-barkly-black-2.jpg',
-        alt: 'Boston Distressed Denim Bib Apron - Light Blue',
-      },
-      shopNow: {
-        href: 'http://www.google.com',
-        text: 'Shop Now',
-      },
-    },
-    {
-      name: 'Product Item without product stamp',
-      link: {
-        href: 'http://google.com',
-        text: 'Harvest Mini Bib Apron – Indigo Denim',
-      },
-      primaryImage: {
-        src:
-          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-ace-bib-swedish-blue-1.png',
-        alt: 'Harvest Mini Bib Apron – Indigo Denim',
-      },
-      secondaryImage: {
-        src:
-          'https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-ace-bib-swedish-blue-2.png',
-        alt: 'Harvest Mini Bib Apron –   Indigo Denim',
-      },
-      allowPreorder: true,
-      preOrder: {
-        href: 'http://www.google.com',
-        text: 'Pre-Order Now',
-      },
-      price: '$32.00',
-      rating: 3,
       reviews: {
         href: 'http://www.google.com',
         text: '10 Reviews',
