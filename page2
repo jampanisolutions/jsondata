@@ -1,6 +1,6 @@
 {
 	"showFilters": true,
-	"endPointURL": "https://www.cargocrew.com.au",
+	"endPointURL": "https://raw.githubusercontent.com/jampanisolutions/jsondata/main/",
 	"totalResultsMessage": "100 Items Found",
 	"sortBy": [{
 			"name": "High - Low",
