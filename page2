@@ -27,6 +27,41 @@
 		"showAllText": true
 	},
 	"productList": [{
+			"name": "Cargo Crew Boston Denim Bib Apron - Black",
+			"link": {
+				"href": "http://google.com",
+				"text": "Cargo Crew Boston Denim Bib Apron - Black"
+			},
+			"primaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-henry-bib-bluegrain-navy-stripe-strap_2.jpg",
+				"alt": "Cargo Crew Boston Denim Bib Apron - Black"
+			},
+			"stamp": {
+				"src": "https://www.cargocrew.com.au/media/wysiwyg/product_label/pre-order.png",
+				"alt": "Pre Order"
+			},
+			"swatches": [{
+					"href": "http://google.com",
+					"hex": "#cccccc"
+				},
+				{
+					"href": "http://google.com",
+					"hex": "#234567"
+				}
+			],
+			"allowPreorder": true,
+			"preOrder": {
+				"href": "http://www.google.com",
+				"text": "Pre-Order Now"
+			},
+			"price": "$40.00",
+			"rating": 5,
+			"viewAvailableColors": {
+				"href": "http://www.google.com",
+				"text": "View Available Colours"
+			}
+		},
+		{
 			"name": "Harvest Mini Bib Apron – Indigo Denim",
 			"link": {
 				"href": "http://google.com",
@@ -209,41 +244,6 @@
 				"href": "http://www.google.com",
 				"text": "10 Reviews"
 			},
-			"viewAvailableColors": {
-				"href": "http://www.google.com",
-				"text": "View Available Colours"
-			}
-		},
-		{
-			"name": "Cargo Crew Boston Denim Bib Apron - Black",
-			"link": {
-				"href": "http://google.com",
-				"text": "Cargo Crew Boston Denim Bib Apron - Black"
-			},
-			"primaryImage": {
-				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-henry-bib-bluegrain-navy-stripe-strap_2.jpg",
-				"alt": "Cargo Crew Boston Denim Bib Apron - Black"
-			},
-			"stamp": {
-				"src": "https://www.cargocrew.com.au/media/wysiwyg/product_label/pre-order.png",
-				"alt": "Pre Order"
-			},
-			"swatches": [{
-					"href": "http://google.com",
-					"hex": "#cccccc"
-				},
-				{
-					"href": "http://google.com",
-					"hex": "#234567"
-				}
-			],
-			"allowPreorder": true,
-			"preOrder": {
-				"href": "http://www.google.com",
-				"text": "Pre-Order Now"
-			},
-			"price": "$40.00",
-			"rating": 5,
 			"viewAvailableColors": {
 				"href": "http://www.google.com",
 				"text": "View Available Colours"
