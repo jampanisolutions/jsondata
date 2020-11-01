@@ -20,10 +20,10 @@
 		}
 	],
 	"pagination": {
-		"pageSize": 30,
+		"pageSize": 6,
 		"currentPage": 1,
-		"totalPages": 5,
-		"totalResults": 100,
+		"totalPages": 3,
+		"totalResults": 18,
 		"showAllText": true
 	},
 	"productList": [{
