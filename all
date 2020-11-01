@@ -20,9 +20,9 @@
 		}
 	],
 	"pagination": {
-		"pageSize": 6,
+		"pageSize": 18,
 		"currentPage": 1,
-		"totalPages": 3,
+		"totalPages": 1,
 		"totalResults": 18,
 		"showAllText": true
 	},
