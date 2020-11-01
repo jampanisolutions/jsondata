@@ -1,0 +1,253 @@
+{
+	"showFilters": true,
+	"endPointURL": "https://raw.githubusercontent.com/jampanisolutions/jsondata/main/",
+	"totalResultsMessage": "100 Items Found",
+	"sortBy": [{
+			"name": "High - Low",
+			"value": "High - Low"
+		},
+		{
+			"name": "Low - High",
+			"value": "Low - High"
+		},
+		{
+			"name": "Most Popular",
+			"value": "Most Popular"
+		},
+		{
+			"name": "New Items",
+			"value": "New Items"
+		}
+	],
+	"pagination": {
+		"pageSize": 30,
+		"currentPage": 1,
+		"totalPages": 5,
+		"totalResults": 100,
+		"showAllText": true
+	},
+	"productList": [{
+			"name": "Harvest Mini Bib Apron – Indigo Denim",
+			"link": {
+				"href": "http://google.com",
+				"text": "Harvest Mini Bib Apron – Indigo Denim"
+			},
+			"primaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-harvest-restyled-minibib-indigo5.jpg",
+				"alt": "Harvest Mini Bib Apron – Indigo Denim"
+			},
+			"secondaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-harvest-restyled-minibib-bindigoside.jpeg",
+				"alt": "Harvest Mini Bib Apron – Indigo Denim"
+			},
+			"stamp": {
+				"src": "https://www.cargocrew.com.au/media/wysiwyg/product_label/choose-strap.png",
+				"alt": "Chose Your Strap"
+			},
+			"allowPreorder": true,
+			"preOrder": {
+				"href": "http://www.google.com",
+				"text": "Pre-Order Now"
+			},
+			"price": "$32.00",
+			"rating": 3.5,
+			"reviews": {
+				"href": "http://www.google.com",
+				"text": "10 Reviews"
+			},
+			"viewAvailableColors": {
+				"href": "http://www.google.com",
+				"text": "View Available Colours"
+			}
+		},
+		{
+			"name": "Boston Distressed Denim Bib Apron - Light Blue",
+			"link": {
+				"href": "https://www.cargocrew.com.au/aprons/denim/boston-distressed-denim-bib-apron-light-blue.html",
+				"text": "Boston Distressed Denim Bib Apron - Light Blue"
+			},
+			"primaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-boston-bib-light-blue-1_1.jpg",
+				"alt": "Boston Distressed Denim Bib Apron - Light Blue"
+			},
+			"secondaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-boston-bib-light-blue-2_2.jpg",
+				"alt": "Boston Distressed Denim Bib Apron - Light Blue"
+			},
+			"stamp": {
+				"src": "https://www.cargocrew.com.au/media/wysiwyg/product_label/best-seller.png",
+				"alt": "Best Seller"
+			},
+			"swatches": [{
+					"image": {
+						"src": "https://www.cargocrew.com.au/media//wysiwyg/related-swatches/black-denim.png",
+						"alt": "Black Denim"
+					},
+					"href": "http://www.google.com",
+					"hex": "#2B4467"
+				},
+				{
+					"image": {
+						"src": "https://www.cargocrew.com.au/media//wysiwyg/related-swatches/black.png",
+						"alt": "Black 3"
+					},
+					"href": "http://www.google.com",
+					"hex": "#0B68C9"
+				},
+				{
+					"href": "http://www.google.com",
+					"hex": "#685848"
+				},
+				{
+					"href": "http://www.google.com",
+					"hex": "#00A245"
+				},
+				{
+					"href": "http://www.google.com",
+					"hex": "#FFB3DA"
+				}
+			],
+			"shopNow": {
+				"href": "http://www.google.com",
+				"text": "Shop Now"
+			},
+			"price": "$35.00",
+			"rating": 4,
+			"reviews": {
+				"href": "http://www.google.com",
+				"text": "6 Reviews"
+			},
+			"viewAvailableColors": {
+				"href": "http://www.google.com",
+				"text": "View Available Colours"
+			}
+		},
+		{
+			"name": "Image without Stamp, Colour Group, Ratings, Price, Reviews and Available colors link",
+			"link": {
+				"href": "http://google.com",
+				"text": "Boston Distressed Denim Bib Apron - Light Blue"
+			},
+			"primaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-barkly-black-1-2.jpg",
+				"alt": "Boston Distressed Denim Bib Apron - Light Blue"
+			},
+			"secondaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-barkly-black-2.jpg",
+				"alt": "Boston Distressed Denim Bib Apron - Light Blue"
+			},
+			"shopNow": {
+				"href": "http://www.google.com",
+				"text": "Shop Now"
+			}
+		},
+		{
+			"name": "Product Item without product stamp",
+			"link": {
+				"href": "http://google.com",
+				"text": "Harvest Mini Bib Apron – Indigo Denim"
+			},
+			"primaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-ace-bib-swedish-blue-1.png",
+				"alt": "Harvest Mini Bib Apron – Indigo Denim"
+			},
+			"secondaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-ace-bib-swedish-blue-2.png",
+				"alt": "Harvest Mini Bib Apron –   Indigo Denim"
+			},
+			"allowPreorder": true,
+			"preOrder": {
+				"href": "http://www.google.com",
+				"text": "Pre-Order Now"
+			},
+			"price": "$32.00",
+			"rating": 3,
+			"reviews": {
+				"href": "http://www.google.com",
+				"text": "10 Reviews"
+			},
+			"viewAvailableColors": {
+				"href": "http://www.google.com",
+				"text": "View Available Colours"
+			}
+		},
+		{
+			"name": "Cargo Crew Boston Denim Bib Apron - Black",
+			"link": {
+				"href": "http://google.com",
+				"text": "Cargo Crew Boston Denim Bib Apron - Black"
+			},
+			"primaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-boston-bib-black-3.jpg",
+				"alt": "Cargo Crew Boston Denim Bib Apron - Black"
+			},
+			"secondaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-uniform-apron-boston-bib-black-4.jpg",
+				"alt": "Cargo Crew Boston Denim Bib Apron - Black"
+			},
+			"stamp": {
+				"src": "https://www.cargocrew.com.au/media/wysiwyg/product_label/pre-order.png",
+				"alt": "Pre Order"
+			},
+			"swatches": [{
+					"href": "http://google.com",
+					"hex": "#cccccc"
+				},
+				{
+					"href": "http://google.com",
+					"hex": "#234567"
+				}
+			],
+			"allowPreorder": true,
+			"preOrder": {
+				"href": "http://www.google.com",
+				"text": "Pre-Order Now"
+			},
+			"price": "$40.00",
+			"rating": 5,
+			"reviews": {
+				"href": "http://www.google.com",
+				"text": "10 Reviews"
+			},
+			"viewAvailableColors": {
+				"href": "http://www.google.com",
+				"text": "View Available Colours"
+			}
+		},
+		{
+			"name": "Cargo Crew Boston Denim Bib Apron - Black",
+			"link": {
+				"href": "http://google.com",
+				"text": "Cargo Crew Boston Denim Bib Apron - Black"
+			},
+			"primaryImage": {
+				"src": "https://www.cargocrew.com.au/media/catalog/product/cache/1/image/580x770/040ec09b1e35df139433887a97daa66f/c/a/cargocrew-apron-henry-bib-bluegrain-navy-stripe-strap_2.jpg",
+				"alt": "Cargo Crew Boston Denim Bib Apron - Black"
+			},
+			"stamp": {
+				"src": "https://www.cargocrew.com.au/media/wysiwyg/product_label/pre-order.png",
+				"alt": "Pre Order"
+			},
+			"swatches": [{
+					"href": "http://google.com",
+					"hex": "#cccccc"
+				},
+				{
+					"href": "http://google.com",
+					"hex": "#234567"
+				}
+			],
+			"allowPreorder": true,
+			"preOrder": {
+				"href": "http://www.google.com",
+				"text": "Pre-Order Now"
+			},
+			"price": "$40.00",
+			"rating": 5,
+			"viewAvailableColors": {
+				"href": "http://www.google.com",
+				"text": "View Available Colours"
+			}
+		}
+	]
+}
